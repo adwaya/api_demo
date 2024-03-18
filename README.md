@@ -7,4 +7,4 @@ my first rest api project using Python🐍 + Flask ⊔
 - Run a container from the created image and expose on a random port `-P` or a port of your choice `-p sourceport:5000`
 - Navigate to the browser http://localhost:0000/info for ex: (http://localhost:9000/info)
   
-  Stay Tuned!!!
+  Stay Tuned!
