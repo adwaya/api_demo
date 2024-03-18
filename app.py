@@ -5,7 +5,7 @@ app = Flask(__name__)
 info = [
     {
         'creator_name': 'adwaya',
-        'version': '2.0',
+        'version': '2.1',
         'species': 'humanoid',
         'entertainment': {
             'games': 'PUBG',

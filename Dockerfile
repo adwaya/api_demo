@@ -1,6 +1,6 @@
 from alpine:latest
 
-MAINTAINER not-me@i-am.com
+MAINTAINER not-me@iam.com
 
 RUN apk add --no-cache python3-dev \
     && pip3 install --upgrade pip
